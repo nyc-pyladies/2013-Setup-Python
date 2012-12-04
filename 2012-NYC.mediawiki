@@ -14,28 +14,29 @@ The aim of this workshop and sprint is to encourage and rope in more bug triager
 == Workshop-Sprint format == 
 
 It will be a small workshop to enable every attendee to ask questions freely and easily contribute to the Pandas scientific project. 
+** Background ** 
+Participants don't need prior experience in Pandas, but a basic understanding of Python and some kind of version control should be required. Knowledge of Numpy is a bonus but not a requirement either.
+** Groups **
+Registrations will be capped at 20-30 participants max. As per their interest, participants will be hived off into groups of 3-4 people. 
 
-**Background:** participants don't need prior experience in Pandas, but a basic understanding of Python and some kind of version control should be required. Knowledge of Numpy is a bonus but not a requirement either.
 
 === WORKSHOP TimeLine : 1015-1300 hrs === 
 Here is a tentative schedule and format for how the day will be structured into two parts:
 
 * 1000 hrs : Arrive at venue; meet and greet until 1015 hrs.
 * 1010-1015 hrs : Brief introduction of the event, by the organizers. 
-* 1015-1230 hrs : Introduction to Pydata in general, and introduction to Pandas, its features, workflow, etc.. to participants by ChangShe.
+* 1015-1230 hrs : Introduction to Pydata in general, and introduction to Pandas, its features, work flow, etc.. to participants by ChangShe.
 * 1230-1300 hrs : Guided group work - Here, people can break up into small groups of 2-4 people, with each group picking one or two [https://github.com/pydata/pandas Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
 
-** 1300-1345 hrs: Lunch, being sponsored by the [http://pythonsprints.com/ Python Software Foundation]**
+===== 1300-1345 hrs: Lunch , being sponsored by the [http://pythonsprints.com/ Python Software Foundation] =====
 
 === Afternoon : 1400-1715 hrs ===
 * 1300-1500 hrs : Guided group work - Here, people can break up into small groups of 3-4 people, with each group picking one or two [https://github.com/pydata/pandas  Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
 * 1500-1715 hrs: SPRINT time, with Chang She available as a mentor - The afternoon sprint will be "free form" and people who come can work on whatever they'd like. Even if it's just writing documentation, beginners who'd like to contribute would be more than welcome. With documentation, some of the participants can work on the phrasing and others can work on examples.
 * 1715 hrs: Wrap-up, and discussion of next steps.
 
-**GROUPS**
-Given the above, the registrations will be capped at 20-30 participants max. As per their interest, participants will be hived off into groups of 3-4 people. 
-
-**ToDo**: Please make a list of [https://github.com/pydata/pandas  Pandas github issues] you'd like to work on, or just find interesting.
+===== ToDo =====
+Please make a list of [https://github.com/pydata/pandas  Pandas github issues] you'd like to work on, or just find interesting.
 
 == Date & Time ==
 Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end it with a sprint in the afternoon.
