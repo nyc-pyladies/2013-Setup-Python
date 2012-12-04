@@ -47,7 +47,7 @@ Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end i
 [https://maps.google.com/maps?q=841+Broadway+New+York,+NY,+New+York,+NY  Google-map link]
 
 == REGISTRATION ==
-The event is Free but open only to registered attendees. Space will be limited and if you are interested in contributing, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012]. Closer to the event, we will email all registered attendees to re-confirm their attendance/RSVP.
+The event is Free but open only to registered attendees. Space will be limited and if you are interested in contributing, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. Closer to the event, we will email all registered attendees to re-confirm their attendance/RSVP.
 
 == VOLUNTEER ==
 Besides this public wiki, we have a mailing list for volunteers that you can subscribe to at:
