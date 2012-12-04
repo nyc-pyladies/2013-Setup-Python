@@ -1,6 +1,6 @@
 = PyData Workshop-Sprint 2012 at NYC  =
 
-Are you interested in a one-day hands-on intensive [[http://pandas.pydata.org/ | Pandas]] workshop and sprint for new contributors with a Pandas core-dev leading the sprint? 
+Are you interested in a one-day hands-on intensive [http://pandas.pydata.org/ | Pandas] workshop and sprint for new contributors with a Pandas core-dev leading the sprint? 
 
 Read on...
 
