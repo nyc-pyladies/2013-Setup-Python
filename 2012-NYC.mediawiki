@@ -55,9 +55,10 @@ Besides this public wiki, we have a mailing list for volunteers that you can sub
 
 == Code of Conduct == 
 The PSF board passed a resolution last month, requiring the Code of Conduct for all events it funds. Since the event is funded by grant money - Lunch and volunteer travel expenses, this event will be under the [https://us.pycon.org/2013/about/code-of-conduct/ Code of Conduct] and all the registered attendees are expected to follow it.  
+
 You can read more about them in the following links:
-0. [http://pyfound.blogspot.com/2012/12/psf-moves-to-require-code-of-conduct.html PSF Moves to Require Code of Conduct for Conference Grants]
-1. [http://jessenoller.com/blog/2012/12/7/the-code-of-conduct Jesse Noller, the PSF Director]] reflects on the CoC on his blog.
+* [http://pyfound.blogspot.com/2012/12/psf-moves-to-require-code-of-conduct.html PSF Moves to Require Code of Conduct for Conference Grants]
+* [http://jessenoller.com/blog/2012/12/7/the-code-of-conduct Jesse Noller, the PSF Director]] reflects on the CoC on his blog.
 
 ==== Comments ====
 The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately. Go ahead and try:
