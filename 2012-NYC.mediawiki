@@ -49,7 +49,7 @@ Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end i
 == REGISTRATION ==
 The event is Free but open only to registered attendees. Space will be limited and if you are interested in contributing, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. Closer to the event, we will email all registered attendees to re-confirm their attendance/RSVP.
 
-=== Code of Conduct == =
+=== Code of Conduct ===
 The PSF board passed a resolution last month, requiring the Code of Conduct for all events it funds. Since the event is funded by grant money - Lunch and volunteer travel expenses, this event will be under the [https://us.pycon.org/2013/about/code-of-conduct/ Code of Conduct] and all the registered attendees are expected to follow it.  
 
 You can read more about them in the following links:
