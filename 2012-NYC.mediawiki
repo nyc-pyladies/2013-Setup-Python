@@ -13,7 +13,7 @@ The aim of this workshop and sprint is to encourage and rope in more bug triager
 
 == Workshop-Sprint format == 
 
-It will be a small workshop to enable every attendee to ask questions freely and easily contribute to the Pandas scientific project. (Please note that this workshop and sprint is all about "you" - your opportunity to boot-strap yourself into a Pandas contributor).
+It will be a small workshop to enable every attendee to ask questions freely and easily contribute to the Pandas scientific project. (Please note that this workshop and sprint is for "you" - an opportunity to boot-strap yourself into a Pandas contributor).
 
 * Background
 Participants don't need prior experience in Pandas, but a basic understanding of Python and some kind of version control should be required. Knowledge of Numpy is a bonus but not a requirement either.
