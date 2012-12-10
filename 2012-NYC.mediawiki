@@ -6,7 +6,7 @@ Read on...
 
 == OBJECTIVE == 
 
-The aim of this workshop and sprint is to encourage and rope in more bug triagers and new contributors to scientific programming in Python, by teaching attendees about data processing tools in Python, and have them contribute a patch to Pandas (or any other PyData stack).
+The aim of this workshop and sprint is to encourage and rope in more bug triagers and new contributors to scientific programming in Python, by teaching attendees about data processing tools in Python, and have them contribute a patch to Pandas.
 
 == Chang She, sprint leader == 
 [http://www.lambdafoundry.com/team  Chang She], a core-developer for the Free/Libre source Pandas library for data analysis, will be the sprint leader conducting the workshop. He is also the co-founder of [http://lambdafoundry.com  LambdaFoundry], a company that provides high productivity solutions for Data Science.
