@@ -33,4 +33,4 @@ We'll do a lot of practicing at a Python prompt (this is "interactive" because y
 
 == Goal #4: install pandas ==
 
-FIXME
+* [[Windows install pandas|Windows]]
