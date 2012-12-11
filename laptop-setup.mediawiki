@@ -1,0 +1,18 @@
+Thanks for reading this ''laptop setup guide''! We wrote this guide to make setting
+up your computer as easy as possible. We do know that sometimes things can be confusing,
+or our guide might be wrong or out of date, so if you have any questions, please get in
+touch with a staff volunteer!
+
+== Morning ==
+
+For the lecture in the morning, you need to go through the ''Morning laptop setup''
+to be sure your computer is fully prepared.
+
+* [[Morning laptop setup]]
+
+== Afternoon ==
+
+After lunch, we'll work on contributing to the project. Therefore, we have
+some extra steps you need to follow before that component of the workshop.
+
+* [[Afternoon laptop setup]]

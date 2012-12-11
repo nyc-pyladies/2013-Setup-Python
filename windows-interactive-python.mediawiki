@@ -1,0 +1,23 @@
+<ol>
+<li>Open a command prompt:<br />
+* On Windows Vista or Windows 7: click on the Start menu (the Windows logo in the lower left of the screen), type <code>cmd</code> into the Search field directly above the Start menu button, and click on "cmd" in the search results above the Search field.
+* On Windows XP: click on the Start menu (the Windows logo in the lower left of the screen), click on "Run...", type <code>cmd</code> into the text box, and hit enter.
+<li>To start Python, type <pre>python</pre> at the command prompt and hit enter. You should see something like
+
+<pre>
+Python 2.7.1 (r271:86832, ...) on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+</pre>
+
+The <code>>>></code> indicates that you are at a Python prompt.
+</li>
+
+<li>Exit the Python prompt by typing <pre>exit()</pre> and hitting enter. Now you're back at the Windows command prompt (<code>C:\</code>).</li>
+</ol>
+
+===Success!===
+
+Practice these steps until you feel comfortable navigating to a command prompt, starting Python, and exiting Python.
+
+[[Morning laptop setup|&laquo; Back to morning laptop setup]]
