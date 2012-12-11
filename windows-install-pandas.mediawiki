@@ -1,0 +1,52 @@
+== Our recommendation ==
+
+On Windows, to get Pandas running, you have to install NumPy first.
+
+To install NumPy:
+
+* Click and download http://pypi.python.org/packages/2.7/n/numpy/numpy-1.6.1.win32-py2.7.exe
+* Run the installer, and follow the process to the end.
+
+Then, to install Pandas:
+
+* Click and download http://pypi.python.org/packages/2.7/p/pandas/pandas-0.9.1.win32-py2.7.exe
+* Run the installer, and follow the process to the end.
+
+Finally, you should install a graphing library to generate visual charts:
+
+* Click and download https://github.com/downloads/matplotlib/matplotlib/matplotlib-1.2.0.win32-py2.7.exe
+* Run the installer, and follow the process to the end.
+
+== Test it ==
+
+To make sure the process worked, open up a Python interpreter prompt. You should
+see this familiar prompt:
+
+ >>>
+
+In that prompt, type the following:
+
+ >>> import numpy
+ >>> print numpy.__version__
+
+You should see it print '''1.6.1'''.
+
+To make sure pandas is installed properly, you can do something similar:
+
+ >>> import pandas
+ >>> print pandas.__version__
+
+You should see it print '''0.8.1'''.
+
+To make sure matplotlib is installed properly, type the following into the Python interpreter:
+
+ >>> import matplotlib
+ >>> print matplotlib.__version__
+
+You should see it print '''1.2.0'''.
+
+== Success! ==
+
+Now you have a Python environment set up to do high performance numeric calculations (with NumPy), do speedy statistical data manipulation (with pandas), and generate data visualizations (with matplotlib)!
+
+[[Morning laptop setup|&laquo; Back to morning laptop setup]]
