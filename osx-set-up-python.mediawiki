@@ -37,4 +37,4 @@ and press Enter. This will take you back to the OS X command prompt.</li>
 
 You have tested your Python installation.
 
-[[Morning laptop setup|&laquo; Back to morning laptop setup]]
+[[laptop setup|&laquo; Back to laptop setup]]

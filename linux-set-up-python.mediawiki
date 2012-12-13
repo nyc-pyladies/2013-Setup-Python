@@ -40,4 +40,4 @@ You might need to install a package called python-tk.
 
 You have tested your Python installation.
 
-[[Morning laptop setup|&laquo; Back to morning laptop setup]]
+[[laptop setup|&laquo; Back to laptop setup]]

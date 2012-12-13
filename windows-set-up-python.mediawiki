@@ -76,4 +76,4 @@ A window with the title "System Properties" will appear.
 
 You have Python installed and configured.
 
-[[Morning laptop setup|&laquo; Back to morning laptop setup]]
+[[laptop setup|&laquo; Back to laptop setup]]

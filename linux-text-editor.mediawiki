@@ -27,4 +27,4 @@ That's it! Now, you can hit tab to indent your code, and that indentation will a
 
 If you prefer a different editor for text, check with an instructor before moving on to make sure it will work for the weekend.
 
-[[Morning laptop setup|&laquo; Back to morning laptop setup]]
+[[laptop setup|&laquo; Back to laptop setup]]
