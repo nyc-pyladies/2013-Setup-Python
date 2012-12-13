@@ -1,4 +1,4 @@
-# First, install dependencies
+## First, install dependencies
 
 pandas requires a number of other Python libraries to be installed. To install them, if you are running Debian or Ubuntu, run the following command:
 
