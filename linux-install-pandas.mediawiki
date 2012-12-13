@@ -14,8 +14,10 @@ Open up a Python prompt by running the following:
 
 At the prompt, type the following:
 
+<pre>
  >>> import numpy
  >>> print numpy.__version__
+</pre>
 
 You should see a number like "1.6.1" or higher. If you see an older version, like "1.5.1", you need to get help from a staff member to set up a "virtualenv."
 
@@ -27,8 +29,10 @@ Open up a Python prompt by running the following:
 
 At the prompt, type the following (capitalization matters!):
 
+<pre>
  >>> import Cython
  >>> print Cython.__version__
+</pre>
 
 You should see a number like "0.15.1" or higher. If you see an older version, like "0.14.1", you need to get help from a staff member to set up a "virtualenv."
 
@@ -63,8 +67,10 @@ To make sure it has built properly, run the following command inside the pandas 
 
 Within this python prompt, type:
 
+<pre>
  >>> import pandas
  >>> print pandas.__version__
+</pre>
 
 You should see this version number: '''0.10.0b1'''. If you see something different, get help from an instructor.
 
