@@ -1,0 +1,21 @@
+== To get a compiler on Windows ==
+
+Installing a C compiler on Windows is fairly straightforward.
+
+Start by downloading this program, and running it:
+
+* [http://iweb.dl.sourceforge.net/project/mingw/Installer/mingw-get-inst/mingw-get-inst-20120426/mingw-get-inst-20120426.exe http://iweb.dl.sourceforge.net/project/mingw/Installer/mingw-get-inst/mingw-get-inst-20120426/mingw-get-inst-20120426.exe]
+
+When prompted, make sure the "GCC" checkbox is checked. Let it run to the end.
+
+== Test your compiler ==
+
+Open up a command prompt, and type:
+
+<pre>c:\mingw\bin\gcc --version</pre>
+
+You should see a helpful version number message.
+
+If you see "Command not found" instead, then get an instructor, and ask for help.
+
+[[laptop setup|&laquo; Back to laptop setup]]
