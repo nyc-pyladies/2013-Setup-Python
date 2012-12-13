@@ -45,6 +45,10 @@ For Mac OS 10.6, use this download link and install this package:
 
 * https://github.com/downloads/kennethreitz/osx-gcc-installer/GCC-10.6.pkg
 
+For Mac OS 10.5, use this download link and install this package:
+
+* http://acm.jhu.edu/~paulproteus/tmp/xcode-3.1.4.dmg
+
 ## Test it
 
 Open up a Terminal, and enter:
