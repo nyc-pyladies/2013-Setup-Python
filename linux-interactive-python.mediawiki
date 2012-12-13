@@ -23,7 +23,7 @@ The <code>>>></code> indicates that you are at a Python prompt.</li>
 exit()
 </pre>
 
-and hitting enter. Now you're back at the Linux command prompt (which looks something like <code>jesstess$</code>).</li>
+and hitting enter. Now you're back at the Linux command prompt (which looks something like this:) <pre>jesstess $</pre></li>
 </ol>
 
 ===Success!===
