@@ -4,15 +4,15 @@ Installing a C compiler on Windows is fairly straightforward.
 
 Start by downloading this program, and running it:
 
-* [http://iweb.dl.sourceforge.net/project/mingw/Installer/mingw-get-inst/mingw-get-inst-20120426/mingw-get-inst-20120426.exe http://iweb.dl.sourceforge.net/project/mingw/Installer/mingw-get-inst/mingw-get-inst-20120426/mingw-get-inst-20120426.exe]
+* [http://download.microsoft.com/download/a/5/4/a54badb6-9c3f-478d-8657-93b3fc9fe62d/vcsetup.exe http://download.microsoft.com/download/a/5/4/a54badb6-9c3f-478d-8657-93b3fc9fe62d/vcsetup.exe]
 
-When prompted, make sure the "GCC" checkbox is checked. Let it run to the end.
+Click next, and agree to the license, if you do agree. We suggest saying no to the two optional components related to Silverlight and SQL. Let it run to the end.
 
 == Test your compiler ==
 
 Open up a command prompt, and type:
 
-<pre>c:\mingw\bin\gcc --version</pre>
+<pre>cl</pre>
 
 You should see a helpful version number message.
 
