@@ -2,9 +2,9 @@
 
 If you are running Debian or Ubuntu, run the following command:
 
- sudo apt-get install build-essential
+ sudo apt-get install build-essential python-dev
 
-That will install a C compiler (gcc) and other essential tools for compiling C code. If you get an error, let a staff member know.
+That will install a C compiler (gcc) and other essential tools for compiling C code. It will also install the "headers" needed to compile addons to Python. If you get an error, let a staff member know.
 
 == Back to laptop setup ==
 
