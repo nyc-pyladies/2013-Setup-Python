@@ -46,17 +46,13 @@ install git and make sure it is properly configured.
 * [[OSX git|OS X]]
 * [[Linux git|Linux]]
 
-== Goal #5: Configure your Github account ==
-
-* [[Github account]]
-
-== Goal #6: Configure a C compiler ==
+== Goal #5: Configure a C compiler ==
 
 * [[Windows compiler|Windows]]
 * [[OSX compiler|OS X]]
 * [[Linux compiler|Linux]]
 
-== Goal #7: install pandas ==
+== Goal #6: install pandas ==
 
 pandas is the Python library that we will be focusing on, during
 the morning tutorial, and during the afternoon sprint.
@@ -64,6 +60,10 @@ the morning tutorial, and during the afternoon sprint.
 * [[Windows install pandas|Windows]]
 * [[OSX install pandas|OS X]]
 * [[Linux install pandas|Linux]]
+
+== Goal #7: Configure your Github account ==
+
+* [[Github account]]
 
 == That's it ==
 
