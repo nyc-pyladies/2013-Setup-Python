@@ -1,4 +1,4 @@
-== First, install dependencies ==
+# First, install dependencies
 
 pandas requires a number of other Python libraries to be installed. To install them, if you are running Debian or Ubuntu, run the following command:
 
@@ -6,7 +6,7 @@ pandas requires a number of other Python libraries to be installed. To install t
 
 This will instal a fast numeric processing library (numpy) and a tool required in the pandas build process (cython).
 
-== Test numpy ==
+# Test numpy
 
 Open up a Python prompt by running the following:
 
@@ -21,7 +21,7 @@ At the prompt, type the following:
 
 You should see a number like "1.6.1" or higher. If you see an older version, like "1.5.1", you need to get help from a staff member to set up a "virtualenv."
 
-== Test cython ==
+# Test cython
 
 Open up a Python prompt by running the following:
 
@@ -36,7 +36,7 @@ At the prompt, type the following (capitalization matters!):
 
 You should see a number like "0.15.1" or higher. If you see an older version, like "0.14.1", you need to get help from a staff member to set up a "virtualenv."
 
-== Download pandas ==
+# Download pandas
 
 We recommend storing pandas in a directory called ''projects'' in your user directory. To do that, run the following commands:
 
@@ -47,7 +47,7 @@ We recommend storing pandas in a directory called ''projects'' in your user dire
 
 You will see git download pandas. Once the download finishes, and you get your prompt back, proceed to the next step.
 
-== Build pandas ==
+# Build pandas
 
 To build pandas, you have to run the following two commands:
 
@@ -59,7 +59,7 @@ This will take about 2 minutes. Once it is finished, run this command:
 
 This will also take about 2 minutes.
 
-== Test pandas ==
+# Test pandas
 
 To make sure it has built properly, run the following command inside the pandas directory:
 
@@ -74,13 +74,13 @@ Within this python prompt, type:
 
 You should see this version number: '''0.10.0b1'''. If you see something different, get help from an instructor.
 
-== Install ipython ==
+# Install ipython
 
 ''ipython'' is an enhanced interactive Python shell that will be used during the lecture. To install it, run:
 
  sudo apt-get install ipython
 
-== Back to laptop setup ==
+# Back to laptop setup
 
-[[laptop setup|&laquo; Back to laptop setup]]
+[&laquo; Back to laptop setup](laptop setup)
 
