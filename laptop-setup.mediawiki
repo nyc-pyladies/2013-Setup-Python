@@ -3,16 +3,68 @@ up your computer as easy as possible. We do know that sometimes things can be co
 or our guide might be wrong or out of date, so if you have any questions, please get in
 touch with a staff volunteer!
 
-== Morning ==
+== How to use this page ==
 
-For the lecture in the morning, you need to go through the ''Morning laptop setup''
-to be sure your computer is fully prepared.
+Go through each '''goal''' one by one, choosing the link
+corresponding to your operating system.
 
-* [[Morning laptop setup]]
+If you have any questions, ask a staff member!
 
-== Afternoon ==
+== Goal #1: set up Python ==
 
-After lunch, we'll work on contributing to the project. Therefore, we have
-some extra steps you need to follow before that component of the workshop.
+This section has instructions for installing Python and running Python from a command prompt.
 
-* [[Afternoon laptop setup]]
+* [[Windows set up Python|Windows]]
+* [[OSX set up Python|OS X]]
+* [[Linux set up Python|Linux]]
+
+== Goal #2: prepare a text editor ==
+
+In addition to being able to run Python, we are going to install a good text editor for writing and saving Python code during the workshop.
+
+If you would like to use a different text editor from the recommendation for your operating system, please let a staff member know.
+
+* [[Windows text editor|Windows]]
+* [[OSX text editor|OS X]]
+* [[Linux text editor|Linux]]
+
+== Goal #3: practice starting and exiting Python ==
+
+We'll do a lot of practicing at a Python prompt (this is "interactive" because you are typing the code and hitting enter to run it yourself, instead of running it from a file). So let's practice starting and exiting Python:
+
+* [[Windows interactive Python|Windows]]
+* [[OSX interactive Python|OS X]]
+* [[Linux interactive Python|Linux]]
+
+== Goal #4: Install git ==
+
+Git is a version control system that pandas uses to record, share, and track
+changes to the code as it evolves over time. In this section, we will help you
+install git and make sure it is properly configured.
+
+* [[Windows git|Windows]]
+* [[OSX git|OS X]]
+* [[Linux git|Linux]]
+
+== Goal #5: Configure your Github account ==
+
+* [[Github account]]
+
+== Goal #6: Configure a C compiler ==
+
+* [[Windows compiler|Windows]]
+* [[OSX compiler|OS X]]
+* [[Linux compiler|Linux]]
+
+== Goal #7: install pandas ==
+
+pandas is the Python library that we will be focusing on, during
+the morning tutorial, and during the afternoon sprint.
+
+* [[Windows install pandas|Windows]]
+* [[OSX install pandas|OS X]]
+* [[Linux install pandas|Linux]]
+
+== That's it ==
+
+Hooray! Congratulations.
