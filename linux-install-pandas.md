@@ -2,7 +2,7 @@
 
 pandas requires a number of other Python libraries to be installed. To install them, if you are running Debian or Ubuntu, run the following command:
 
- sudo apt-get install python-numpy cython
+<pre>sudo apt-get install python-numpy cython</pre>
 
 This will instal a fast numeric processing library (numpy) and a tool required in the pandas build process (cython).
 
@@ -40,10 +40,12 @@ You should see a number like "0.15.1" or higher. If you see an older version, li
 
 We recommend storing pandas in a directory called ''projects'' in your user directory. To do that, run the following commands:
 
- mkdir -p ~/projects
- cd ~/projects
- git clone https://github.com/pydata/pandas.git
- cd pandas
+<pre>
+mkdir -p ~/projects
+cd ~/projects
+git clone https://github.com/pydata/pandas.git
+cd pandas
+</pre>
 
 You will see git download pandas. Once the download finishes, and you get your prompt back, proceed to the next step.
 
@@ -51,11 +53,11 @@ You will see git download pandas. Once the download finishes, and you get your p
 
 To build pandas, you have to run the following two commands:
 
- python setup.py build_ext --inplace
+<pre>python setup.py build_ext --inplace</pre>
 
 This will take about 2 minutes. Once it is finished, run this command:
 
- python setup.py build
+<pre>python setup.py build</pre>
 
 This will also take about 2 minutes.
 
@@ -63,7 +65,7 @@ This will also take about 2 minutes.
 
 To make sure it has built properly, run the following command inside the pandas directory:
 
- python
+<pre>python</pre>
 
 Within this python prompt, type:
 
@@ -78,7 +80,7 @@ You should see this version number: '''0.10.0b1'''. If you see something differe
 
 ''ipython'' is an enhanced interactive Python shell that will be used during the lecture. To install it, run:
 
- sudo apt-get install ipython
+<pre>sudo apt-get install ipython</pre>
 
 # Back to laptop setup
 
