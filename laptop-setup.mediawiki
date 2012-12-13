@@ -49,7 +49,7 @@ install git and make sure it is properly configured.
 == Goal #5: Configure a C compiler ==
 
 * [[Windows compiler|Windows]]
-* [[OSX compiler|OS X]]
+* [[osx compiler|OS X]]
 * [[Linux compiler|Linux]]
 
 == Goal #6: install pandas ==
