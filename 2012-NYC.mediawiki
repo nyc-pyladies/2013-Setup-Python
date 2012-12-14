@@ -18,7 +18,7 @@ It will be a small workshop to enable every attendee to ask questions freely and
 * Background
 Participants don't need prior experience in Pandas, but a basic understanding of Python and some kind of version control should be required. Knowledge of Numpy is a bonus but not a requirement either.
 * Groups 
-Registrations will be capped at 20-30 participants (max). As per their interest, participants will be split into groups of 3-4 people or smaller groups.
+Registrations will be capped at 30 participants (max). As per their interest, participants will be split into groups of 3-4 people or smaller groups.
 
 
 === WORKSHOP Timeline : 1015-1300 hrs === 
@@ -27,14 +27,28 @@ Here is a tentative schedule and format for how the day will be structured into 
 * 0940-0945 hrs : Arrive at venue, Registration check. 
 * 0945-1010 : Laptop setup (or meet and greet) until 1010 hrs.
 * 1010-1015 hrs : Brief introduction of the event, by the organizers. 
-* 1015-1230 hrs : Introduction to Pydata in general, and introduction to Pandas, its features, work flow, etc.. to participants by Chang She.
-* 1230-1300 hrs : Guided group work - Here, people can break up into small groups of 2-4 people, with each group picking one or two [https://github.com/pydata/pandas Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
+* 1015-1230 hrs : Chang will cover the following topics:
+ 1. Introduction to Pydata in general, 
+ 2. How to be more productive - IPython, editor choice, etc
+ 3. Introduction to Pandas, its basics:
+    - object creation
+    - indexing
+    - computations
+    - missing data
+    - groupby
+    - data input/output
+* 1230-1300 hrs : Guided group work will have Chang showing us how to contribute to pandas:
+    - Writing documentation/code, test cases, running test suite, submit pull request (the whole git workflow)
+Here, people can break up into small groups of 2-4 people, with each group picking one or two [https://github.com/pydata/pandas Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
 
 ===== Lunch =====
 * 1300-1345 hrs: Lunch is sponsored by the [http://pythonsprints.com/ Python Software Foundation] ..(ThankYou PSF!)
 
 === Afternoon : 1400-1715 hrs ===
-* 1300-1500 hrs : Guided group work (continued) - Here, people can break up into small groups of 3-4 people, with each group picking one or two [https://github.com/pydata/pandas  Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
+* 1300-1500 hrs : Guided group work continues and if we have time, Chang may cover the following topics:
+    - basic plotting
+    - timeseries API
+    - data reshaping
 * 1500-1715 hrs: SPRINT time, with Chang She available as a mentor - The afternoon sprint will be "free form" and people who come can work on any [https://github.com/pydata/pandas Pandas tickets they like] - Even if it's just writing documentation, beginners who'd like to contribute would be more than welcome. With documentation, some of the participants can work on the phrasing and others can work on examples.
 * 1715 hrs: Wrap-up, and discussion of next steps.
 
