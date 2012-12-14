@@ -1,0 +1,40 @@
+= Logistics = 
+Thank you for signing up for the PyData Workshop and Sprint with Chang She!
+
+This wiki page contains a few logistics notes you'll need to know to make the best of the workshop, and help it run as smoothly as possible.
+
+== What to bring ==
+
+We expect you to bring yourself and a laptop computer, with a compatible network card, that can enable you to connect to a wi-fi network. Your machine can be running Windows, Mac OS, or a Linux distribution of your choice, or if it runs something else, that's cool, but you might run into issues with the workshop.
+
+It is important that you bring a computer you can program on, rather than just a tablet or mobile phone.
+
+=== Planning for food === 
+
+We plan to provide lunch, thanks to the Python Software Foundation for sponsoring! 
+
+== Laptop setup ==
+
+Getting your computer configured to contribute to Pandas can be time-consuming, so we wrote a guide that you can work through.  You can find it here:
+
+[https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop-setup
+https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop-setup]
+
+We strongly encourage you to work through it before the event. If you are having any trouble, we can help out! Please come 15 minutes early, by 9:40 am, to the venue so that one of the volunteers will be able to assist and work with you.
+
+== Venue ==
+
+The location is:
+
+* Pivotal Labs (8th floor), 841 Broadway New York, NY. [https://maps.google.com/maps?q=841+Broadway+New+York,+NY,+New+York,+NY  Google-map link]
+
+* Date: Sun, December 16th.
+
+* Arrive at '''09:40AM EST''' for [https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop%20setup laptop setup], or 10 AM for general meet&greet.
+
+* Full schedule: https://github.com/svaksha/PyData-Workshop-Sprint/wiki/2012-NYC
+
+=== Exit Survey === 
+After the workshop, we'll send you an exit survey to obtain your feedback, which is important to us.
+
+See you on Sunday!
