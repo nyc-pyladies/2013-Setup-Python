@@ -23,6 +23,8 @@ sh AnacondaCE-1.2.1-MacOSX-x86_64.sh
 
 Follow the prompts, and permit it to install. If you have questions, ask a staff member.
 
+We urge you to choose the default install location, which is ~/anaconda.
+
 ### Download pandas
 
 In a terminal, run these commands:
@@ -40,11 +42,11 @@ This will download the latest version of pandas to your projects folder, creatin
 
 To build pandas, you have to run the following two commands:
 
-<pre>python setup.py build_ext --inplace</pre>
+<pre>~/anaconda/bin/python setup.py build_ext --inplace</pre>
 
 This will take about 2 minutes. Once it is finished, run this command:
 
-<pre>python setup.py build</pre>
+<pre>~/anaconda/bin/python setup.py build</pre>
 
 This will also take about 2 minutes.
 
@@ -52,7 +54,7 @@ This will also take about 2 minutes.
 
 To make sure it has built properly, run the following command inside the pandas directory:
 
-<pre>python</pre>
+<pre>~/anaconda/bin/python</pre>
 
 Within this python prompt, type:
 
@@ -62,6 +64,8 @@ Within this python prompt, type:
 </pre>
 
 You should see this version number: '''0.10.0b1'''. If you see something different, get help from an instructor.
+
+In general, for this workshop, you should use *~/anaconda/bin/python* instead of just typing *python* into your prompt.
 
 # Back to laptop setup
 
