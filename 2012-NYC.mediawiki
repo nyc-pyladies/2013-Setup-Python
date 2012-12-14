@@ -24,7 +24,8 @@ Registrations will be capped at 20-30 participants (max). As per their interest,
 === WORKSHOP Timeline : 1015-1300 hrs === 
 Here is a tentative schedule and format for how the day will be structured into two parts:
 
-* 1000 hrs : Arrive at venue; meet and greet until 1015 hrs.
+* 0940-0945 hrs : Arrive at venue, Registration check. 
+* 0945-1010 : Laptop setup (or meet and greet) until 1010 hrs.
 * 1010-1015 hrs : Brief introduction of the event, by the organizers. 
 * 1015-1230 hrs : Introduction to Pydata in general, and introduction to Pandas, its features, work flow, etc.. to participants by Chang She.
 * 1230-1300 hrs : Guided group work - Here, people can break up into small groups of 2-4 people, with each group picking one or two [https://github.com/pydata/pandas Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
@@ -48,7 +49,11 @@ Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end i
 [https://maps.google.com/maps?q=841+Broadway+New+York,+NY,+New+York,+NY  Google-map link]
 
 == REGISTRATION ==
-The event is Free but open only to registered attendees. Space will be limited and if you are interested in contributing, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. Closer to the event, we will email all registered attendees to re-confirm their attendance/RSVP.
+The event is Free but open only to registered attendees. Space is limited and if you are interested in becoming a Pandas contributor, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. Closer to the event, we will RSVP all registered attendees to re-confirm their attendance.
+
+==== O'Reilly Media ====
+[O'Reilly Media http://oreilly.com] has generously agreed to provide all our registered attendees with a free copy of the "[http://www.lambdafoundry.com/training#book Python for Data Analysis]" E-book, written by Wes McKinney.
+
 
 === Code of Conduct ===
 The PSF board passed a resolution last month, requiring the Code of Conduct for all events it funds. Since the event is funded by grant money - Lunch and volunteer travel expenses, this event will be under the [https://us.pycon.org/2013/about/code-of-conduct/ Code of Conduct] and all the registered attendees are expected to follow it.  
