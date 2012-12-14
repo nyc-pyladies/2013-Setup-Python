@@ -46,7 +46,7 @@ Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end i
 
 == Venue ==
 [http://pivotallabs.com Pivotal Labs] has generously sponsored their office as the venue for this workshop-sprint. (ThankYou Pivotal!)
-Address: Pivotal Labs, 841 Broadway New York, NY.
+* Address: Pivotal Labs, 841 Broadway New York, NY.
 [https://maps.google.com/maps?q=841+Broadway+New+York,+NY,+New+York,+NY  Google-map link]
 
 == REGISTRATION ==
