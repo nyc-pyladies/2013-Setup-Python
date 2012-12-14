@@ -16,8 +16,7 @@ We plan to provide lunch, thanks to the [http://pythonsprints.com/ Python Softwa
 Getting your computer configured to contribute to Pandas can be time-consuming, so we wrote a guide that you can work through. 
 You can find it here:
 
-[https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop-setup
-https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop-setup]
+[https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop-setup https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop-setup]
 
 We strongly encourage you to work through it before the event. If you are having any trouble, we can help out! '''Please come a little early, by 9:40 am, to the venue so that one of the volunteers will be able to assist and work with you'''.
 
