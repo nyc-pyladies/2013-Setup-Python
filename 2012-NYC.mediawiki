@@ -11,7 +11,7 @@ The aim of this workshop and sprint is to encourage and rope in more bug triager
 == Chang She, sprint leader == 
 [http://www.lambdafoundry.com/team  Chang She], a core-developer for the Free/Libre source Pandas library for data analysis, will be the sprint leader conducting the workshop. He is also the co-founder of [http://lambdafoundry.com  LambdaFoundry], a company that provides high productivity solutions for Data Science.
 
-== Workshop-Sprint format == 
+== Workshop-Sprint format and Timeline == 
 
 It will be a small workshop to enable every attendee to ask questions freely and easily contribute to the Pandas scientific project. (Please note that this workshop and sprint is for "you" - an opportunity to boot-strap yourself into a Pandas contributor).
 
@@ -21,7 +21,7 @@ Participants don't need prior experience in Pandas, but a basic understanding of
 Registrations will be capped at 30 participants (max). As per their interest, participants will be split into groups of 3-4 people or smaller groups.
 
 
-=== WORKSHOP Timeline : 1015-1300 hrs === 
+=== Morning Session: 0940-1300 hrs === 
 Here is a tentative schedule and format for how the day will be structured into two parts:
 
 * 0940-0945 hrs : Arrive at venue, Registration check. 
@@ -44,16 +44,16 @@ Here, people can break up into small groups of 2-4 people, with each group picki
 ===== Lunch =====
 * 1300-1345 hrs: Lunch is sponsored by the [http://pythonsprints.com/ Python Software Foundation] ..(ThankYou PSF!)
 
-=== Afternoon : 1400-1715 hrs ===
-* 1300-1500 hrs : Guided group work continues and if we have time, Chang may cover the following topics:
+=== Afternoon Session : 1345-1715 hrs ===
+* 1345-1500 hrs : Guided group work continues and if we have time, Chang may cover the following topics:
     - basic plotting
     - timeseries API
     - data reshaping
 * 1500-1715 hrs: SPRINT time, with Chang She available as a mentor - The afternoon sprint will be "free form" and people who come can work on any [https://github.com/pydata/pandas Pandas tickets they like] - Even if it's just writing documentation, beginners who'd like to contribute would be more than welcome. With documentation, some of the participants can work on the phrasing and others can work on examples.
 * 1715 hrs: Wrap-up, and discussion of next steps.
 
-===== ToDo =====
-Please make a list of [https://github.com/pydata/pandas  Pandas github issues] you'd like to work on, or just find interesting.
+===== List of Pandas Bugs =====
+Please make a list of [https://github.com/pydata/pandas Pandas Bugs/Issues on Github] you'd like to work on, or just find interesting.
 
 == Date & Time ==
 Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end it with a sprint in the afternoon.
