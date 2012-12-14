@@ -40,6 +40,9 @@ This will download the latest version of pandas to your projects folder, creatin
 
 ### Build pandas
 
+Navigate into the pandas directory:
+<pre>cd pandas</pre>
+
 To build pandas, you have to run the following two commands:
 
 <pre>~/anaconda/bin/python setup.py build_ext --inplace</pre>
