@@ -21,13 +21,13 @@ Participants don't need prior experience in Pandas, but a basic understanding of
 Registrations will be capped at 30 participants (max). As per their interest, participants will be split into groups of 3-4 people or smaller groups.
 
 
-=== Morning Session: 0940-1300 hrs === 
+=== Morning Session: 0940-1300 hrs EST === 
 Here is a tentative schedule and format for how the day will be structured into two parts:
 
-* 0940-0945 hrs : Arrive at venue, Registration check. 
-* 0945-1010 : Laptop setup (or meet and greet) until 1010 hrs.
-* 1010-1015 hrs : Brief introduction of the event, by the organizers. 
-* 1015-1230 hrs : Chang will cover the following topics:
+* 0940-0945 EST : Arrive at venue, Registration check. 
+* 0945-1010 EST : Laptop setup (or meet and greet) until 1010 hrs.
+* 1010-1015 EST : Brief introduction of the event, by the organizers. 
+* 1015-1230 EST : Chang will cover the following topics:
  1. Introduction to Pydata in general, 
  2. How to be more productive - IPython, editor choice, etc
  3. Introduction to Pandas, its basics:
@@ -37,20 +37,20 @@ Here is a tentative schedule and format for how the day will be structured into 
     - missing data
     - groupby
     - data input/output
-* 1230-1300 hrs : Guided group work will have Chang showing us how to contribute to pandas:
+* 1230-1300 EST : Guided group work will have Chang showing us how to contribute to pandas:
     - Writing documentation/code, test cases, running test suite, submit pull request (the whole git workflow)
 Here, people can break up into small groups of 2-4 people, with each group picking one or two [https://github.com/pydata/pandas Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
 
 ===== Lunch =====
-* 1300-1345 hrs: Lunch is sponsored by the [http://pythonsprints.com/ Python Software Foundation] ..(ThankYou PSF!)
+* 1300-1345 EST : Lunch is sponsored by the [http://pythonsprints.com/ Python Software Foundation] ..(ThankYou PSF!)
 
 === Afternoon Session : 1345-1715 hrs ===
-* 1345-1500 hrs : Guided group work continues and if we have time, Chang may cover the following topics:
+* 1345-1500 EST : Guided group work continues and if we have time, Chang may cover the following topics:
     - basic plotting
     - timeseries API
     - data reshaping
-* 1500-1715 hrs: SPRINT time, with Chang She available as a mentor - The afternoon sprint will be "free form" and people who come can work on any [https://github.com/pydata/pandas Pandas tickets they like] - Even if it's just writing documentation, beginners who'd like to contribute would be more than welcome. With documentation, some of the participants can work on the phrasing and others can work on examples.
-* 1715 hrs: Wrap-up, and discussion of next steps.
+* 1500-1715 EST : SPRINT time, with Chang She available as a mentor - The afternoon sprint will be "free form" and people who come can work on any [https://github.com/pydata/pandas Pandas tickets they like] - Even if it's just writing documentation, beginners who'd like to contribute would be more than welcome. With documentation, some of the participants can work on the phrasing and others can work on examples.
+* 1715 EST : Wrap-up, and discussion of next steps.
 
 ===== List of Pandas Bugs =====
 Please make a list of [https://github.com/pydata/pandas Pandas Bugs/Issues on Github] you'd like to work on, or just find interesting.
