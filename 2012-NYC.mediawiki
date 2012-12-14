@@ -31,7 +31,7 @@ Here is a tentative schedule and format for how the day will be structured into 
 * 1230-1300 hrs : Guided group work - Here, people can break up into small groups of 2-4 people, with each group picking one or two [https://github.com/pydata/pandas Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
 
 ===== Lunch =====
-* 1300-1345 hrs: Lunch, sponsored by the [http://pythonsprints.com/ Python Software Foundation]
+* 1300-1345 hrs: Lunch is sponsored by the [http://pythonsprints.com/ Python Software Foundation] ..(ThankYou PSF!)
 
 === Afternoon : 1400-1715 hrs ===
 * 1300-1500 hrs : Guided group work (continued) - Here, people can break up into small groups of 3-4 people, with each group picking one or two [https://github.com/pydata/pandas  Pandas github issues]. They can try to make a pull request at the end. With guided group work, some of the participants should write the unit tests and some should work on the actual code.
@@ -45,15 +45,15 @@ Please make a list of [https://github.com/pydata/pandas  Pandas github issues] y
 Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end it with a sprint in the afternoon.
 
 == Venue ==
-[http://pivotallabs.com Pivotal Labs], 841 Broadway New York, NY, New York, NY 
+[http://pivotallabs.com Pivotal Labs] has generously sponsored their office as the venue for this workshop-sprint. (ThankYou Pivotal!)
+Address: Pivotal Labs, 841 Broadway New York, NY.
 [https://maps.google.com/maps?q=841+Broadway+New+York,+NY,+New+York,+NY  Google-map link]
 
 == REGISTRATION ==
 The event is Free but open only to registered attendees. Space is limited and if you are interested in becoming a Pandas contributor, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. Closer to the event, we will RSVP all registered attendees to re-confirm their attendance.
 
 ==== O'Reilly Media ====
-[http://oreilly.com O'Reilly Media] is generously sponsoring all our registered attendees with a free copy of the "[http://www.lambdafoundry.com/training#book Python for Data Analysis]" E-book, written by Wes McKinney.
-
+[http://oreilly.com O'Reilly Media] is generously sponsoring all our registered attendees with a free copy of the "[http://www.lambdafoundry.com/training#book Python for Data Analysis]" E-book, written by Wes McKinney. (ThankYou O'Reilly!)
 
 === Code of Conduct ===
 The PSF board passed a resolution last month, requiring the Code of Conduct for all events it funds. Since the event is funded by grant money - Lunch and volunteer travel expenses, this event will be under the [https://us.pycon.org/2013/about/code-of-conduct/ Code of Conduct] and all the registered attendees are expected to follow it.  
