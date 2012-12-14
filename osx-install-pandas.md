@@ -18,7 +18,7 @@ Open up a Terminal, and type these commands:
 
 <pre>
 cd Downloads
-sh ~/AnacondaCE-1.2.1-MacOSX-x86_64.sh
+sh AnacondaCE-1.2.1-MacOSX-x86_64.sh
 </pre>
 
 Follow the prompts, and permit it to install. If you have questions, ask a staff member.
