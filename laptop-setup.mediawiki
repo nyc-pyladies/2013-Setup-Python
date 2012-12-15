@@ -4,7 +4,7 @@ Thanks for reading this ''laptop setup guide''! We wrote this guide to make sett
 
 Go through each '''goal''' one by one, choosing the link corresponding to your operating system.
 
-If you have any questions or problems with the development environment setup, please [[pydata-outreach-staff@lists.openhatch.org email us]] before the event, or ask a staff member to help at the venue!
+If you have any questions or problems with the development environment setup, please email "pydata-outreach-staff@lists.openhatch.org" before the event, or ask a staff member to help at the venue!
 
 == Goal #1: set up Python ==
 
