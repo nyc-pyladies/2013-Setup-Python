@@ -27,7 +27,7 @@ The location is:
 
 * Date: Sunday, December 16th.
 
-* Arrive at '''09:40AM EST''' for [https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop%20setup laptop setup], or '''10 AM for general meet&greet'''.
+* Arrive at '''09:40AM EST''' for [https://github.com/svaksha/PyData-Workshop-Sprint/wiki/laptop%20setup laptop setup], or '''10 AM for general meet&greet'''. Please bring a copy of your registration or atleast the '''Attendee/Order Number''' on Sunday.
 
 * A detailed schedule with a timeline is outlined in the [https://github.com/svaksha/PyData-Workshop-Sprint/wiki/2012-NYC#wiki-WorkshopSprint_format_and_Timeline Workshop-Sprint format] section.
 
