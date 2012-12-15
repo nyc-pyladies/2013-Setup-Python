@@ -31,6 +31,8 @@ The location is:
 
 * A detailed schedule with a timeline is outlined in the [https://github.com/svaksha/PyData-Workshop-Sprint/wiki/2012-NYC#wiki-WorkshopSprint_format_and_Timeline Workshop-Sprint format] section.
 
+'''NOTE''' : While you are inside the Pivotal Labs office for this event, please do not enter into the main office work area. You are free to roam around the event/dining area during the workshop-sprint. Thanks.
+
 === Exit Survey === 
 Your feedback is important to us, so after the workshop and sprint concludes, we'll send you an exit survey. Please take some time out to share your thoughts.
 
