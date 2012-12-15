@@ -64,7 +64,8 @@ Sunday, 16-December-2012. Kickstart your Sunday with a Pandas workshop and end i
 [https://maps.google.com/maps?q=841+Broadway+New+York,+NY,+New+York,+NY  Google-map link]
 
 == REGISTRATION ==
-The event is Free but open only to registered attendees. Space is limited and if you are interested in becoming a Pandas contributor, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. Closer to the event, we will RSVP all registered attendees to re-confirm their attendance.
+The event is Free but open only to registered attendees. Space is limited and if you are interested in becoming a Pandas contributor, [http://pydata-workshop-sprint.eventbrite.com/ Register for the PyData Workshop+Sprint 2012] before Dec 12th. 
+Closer to the event, we will RSVP all registered attendees to re-confirm their attendance. Please bring a copy of your registration or the '''Attendee/Order Number''' when you arrive at the venue.
 
 ==== O'Reilly Media ====
 [http://oreilly.com O'Reilly Media] is generously sponsoring all our registered attendees with a free copy of the "[http://www.lambdafoundry.com/training#book Python for Data Analysis]" E-book, written by Wes McKinney. (ThankYou O'Reilly!)
