@@ -1,6 +1,6 @@
 ## First, install dependencies
 
-pandas requires a number of other Python libraries to be installed. To install them, if you are running Debian or Ubuntu, run the following command:
+Pandas requires a number of other Python libraries to be installed. To install them, if you are running Debian or Ubuntu, run the following command:
 
 <pre>sudo apt-get install python-numpy cython</pre>
 
@@ -60,6 +60,8 @@ mkdir -p $WORKON_HOME
 mkvirtualenv pandas
 </pre>
 Then, 'cd' into the '/pandas' directory and follow the installation instructions on this page: [http://pandas.pydata.org/pandas-docs/stable/install.html](http://pandas.pydata.org/pandas-docs/stable/install.html)
+You will need to install all the dependencies inside the Env.
+
 
 # Build pandas
 
