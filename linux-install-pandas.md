@@ -4,7 +4,7 @@ Pandas requires a number of other Python libraries to be installed. To install t
 
 <pre>sudo apt-get install python-numpy cython</pre>
 
-This will instal a fast numeric processing library (numpy) and a tool required in the pandas build process (cython).
+This will install a fast numeric processing library (numpy) and a tool required in the pandas build process (cython).
 
 # Test numpy
 
