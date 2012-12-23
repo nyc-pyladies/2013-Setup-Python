@@ -49,6 +49,18 @@ cd pandas
 
 You will see git download pandas. Once the download finishes, and you get your prompt back, proceed to the next step.
 
+# Installing Pandas inside the VirtualEnv
+Alternatively, if you would like to create a development sandbox environment, we recommend installing Pandas inside the VirtualEnv. Instructions to create a virtualenv are here: [http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html](http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html)
+
+Next, you must 'cd' (change directory) into the '/Env' located in /path/to/home/. To do that, run the following commands:
+
+cd Envs/
+export WORKON_HOME=~/Envs
+mkdir -p $WORKON_HOME
+mkvirtualenv pandas
+
+Then, 'cd' into the '/pandas' directory and follow the installation instructions on this page: [http://pandas.pydata.org/pandas-docs/stable/install.html](http://pandas.pydata.org/pandas-docs/stable/install.html)
+
 # Build pandas
 
 To build pandas, you have to run the following two commands:
